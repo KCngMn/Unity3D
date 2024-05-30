@@ -15,3 +15,5 @@
     - **OnCollisionEnter** 트리거를 사용해 캐릭터가 점프대에 닿았을 때 **ForceMode.Impulse**를 사용해 순간적인 힘을 가함.
 5. **아이템 데이터** `ScriptableObject` (난이도 : ★★★☆☆)
     - 다양한 아이템 데이터를 `ScriptableObject`로 정의. 각 아이템의 이름, 설명, 속성 등을 `ScriptableObject`로 관리
+
+V를 누르면 3인칭 변경
